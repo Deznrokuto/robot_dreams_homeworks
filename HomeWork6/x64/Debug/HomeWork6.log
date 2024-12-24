@@ -1,0 +1,3 @@
+﻿  HomeWork6.cpp
+C:\Users\Ivan\Documents\Codding projects\C++\HomeWork6\HomeWork6.cpp(194,16): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  HomeWork6.vcxproj -> C:\Users\Ivan\Documents\Codding projects\C++\HomeWork6\x64\Debug\HomeWork6.exe
